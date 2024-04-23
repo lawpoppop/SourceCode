@@ -1,0 +1,15 @@
+AML-network analysis, graph analytic
+    -https://www.youtube.com/watch?v=lTwrOGZtUAk
+
+share KYC attributes analysis
+    -accounts characteristic, eg: same password, same address etc
+    -detect using graph https://www.youtube.com/watch?v=a_MlZBcNyuE
+
+Centrality
+    -relative importance of node in graph
+    -find key person of criminial operation
+
+Community
+    -subset of nodes in graph
+    -group criminal syndicates
+
